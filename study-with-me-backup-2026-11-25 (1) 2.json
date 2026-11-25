@@ -1,0 +1,120 @@
+{
+  "app": "Study With Me",
+  "exportedAt": "2026-11-25T03:04:07.780Z",
+  "state": {
+    "profileKey": "12_engineering",
+    "activeSubjectId": "physics_e",
+    "activeTab": "timer",
+    "color": "blue",
+    "darkMode": true,
+    "focusGoal": "",
+    "dailyGoalMinutes": 120,
+    "dailyMinutesMap": {},
+    "examSchedule": {
+      "title": "الامتحان القادم",
+      "date": ""
+    },
+    "achFilter": "all",
+    "achSearch": "",
+    "taskPeriodFilter": "all",
+    "taskSubjectFilter": "all",
+    "taskStatusFilter": "all",
+    "progress": {
+      "adv_english_e": {
+        "minutes": 0,
+        "sessions": 0,
+        "units": [
+          {
+            "id": "u_1795575504052_tkuc",
+            "title": "الوحدة الأولى",
+            "lessons": [
+              {
+                "id": "l_1795575504052_1",
+                "title": "الدرس الأول: المفاهيم الأساسية",
+                "done": false
+              },
+              {
+                "id": "l_1795575504052_2",
+                "title": "الدرس الثاني: التطبيقات وحل الأسئلة",
+                "done": false
+              }
+            ]
+          }
+        ]
+      },
+      "physics_e": {
+        "minutes": 0,
+        "sessions": 0,
+        "units": [
+          {
+            "id": "u_1795575504052_c0pt",
+            "title": "الوحدة الأولى",
+            "lessons": [
+              {
+                "id": "l_1795575504052_1",
+                "title": "الدرس الأول: المفاهيم الأساسية",
+                "done": false
+              },
+              {
+                "id": "l_1795575504052_2",
+                "title": "الدرس الثاني: التطبيقات وحل الأسئلة",
+                "done": false
+              }
+            ]
+          }
+        ]
+      },
+      "math_e": {
+        "minutes": 0,
+        "sessions": 0,
+        "units": [
+          {
+            "id": "u_1795575504052_wnkn",
+            "title": "الوحدة الأولى",
+            "lessons": [
+              {
+                "id": "l_1795575504052_1",
+                "title": "الدرس الأول: المفاهيم الأساسية",
+                "done": false
+              },
+              {
+                "id": "l_1795575504052_2",
+                "title": "الدرس الثاني: التطبيقات وحل الأسئلة",
+                "done": false
+              }
+            ]
+          }
+        ]
+      },
+      "earth_science_e": {
+        "minutes": 0,
+        "sessions": 0,
+        "units": [
+          {
+            "id": "u_1795575504052_t6n0",
+            "title": "الوحدة الأولى",
+            "lessons": [
+              {
+                "id": "l_1795575504052_1",
+                "title": "الدرس الأول: المفاهيم الأساسية",
+                "done": false
+              },
+              {
+                "id": "l_1795575504052_2",
+                "title": "الدرس الثاني: التطبيقات وحل الأسئلة",
+                "done": false
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "tasks": [],
+    "chat": [
+      {
+        "role": "assistant",
+        "text": "أهلاً بك! أنا مساعد الدراسة الذكي لـ (الصف الثاني عشر • الحقل الهندسي). اختر المادة واستخدم الأزرار السريعة أو اكتب سؤالك عن خطة مراجعة، تلخيص مفهوم، حل سؤال خطوة بخطوة، أو تقسيم وقت الدراسة."
+      }
+    ]
+  }
+}
